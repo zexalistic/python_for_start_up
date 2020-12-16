@@ -1,0 +1,5 @@
+1. Create a new directory under this folder named "folder_1"
+2. enter that folder 
+3. create a new file named "something"
+4. write something into that file and exit
+5. Try to write some Chinese characters without messy code if you can(advanced)
