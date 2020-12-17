@@ -1,0 +1,4 @@
+Please do all these things using python scripts:
+1. Copy all the content in Task_1\folder_1(folder_1 included) to the current directory and rename folder_1 as folder_2.
+2. Create a new file named "lalala.txt" in folder_2, and write "Five score years ago, a great American...", swtich to a new line, "in whose symbolic shadow we stand here...". Save that file.
+3. However, you found a type error afterwords. So you need to swap the word "American" in "folder_2\lalala.txt" to "Chinese" 
