@@ -1,0 +1,5 @@
+Download the dataset from http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/EnglishHnd.tgz and extract the file. (You don't need to use python)
+1. write a python script in the foleder "English\"
+2. In folder Hnd\Img, Sample 001~062 contains the image of 0~9 and the alphabet including upper case and lower case.
+Please select every PNG image ending with "003" and substitute "003" to "113". e.g. "img003-003.png" -> "img003-113.png"
+
