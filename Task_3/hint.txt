@@ -1,0 +1,6 @@
+To see all the files under this folder, use os.listdir
+
+To check if this string is a python file:
+path = "test_user_info.py"
+bool = path.endswith(".py")
+print(bool)
