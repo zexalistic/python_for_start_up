@@ -1,4 +1,5 @@
 1. Download my paper "MagHacker: Eavesdropping on Stylus Pen Writing via Magnetic Sensing from Commodity Mobile Devices", wwrite a script to count how many times the word "magnet" appears.
 2. Count how many times "菜鸟""教程" and "Python3" occurs in "Python3教程_菜鸟教程.html". Create a csv file (you can see "sample.csv" as a reference) to record those numbers.
 You can open the csv file both in Microsoft Excel and Wordpad. 
-It is a very convinient way to record the data, using comma to separate each column and '\n' to separate each row. It's easy to import csv files into Excel, SPSS and SAS etc.  
+It is a very convinient way to record the data, using comma to separate each column and '\n' to separate each row. It's easy to import csv files into Excel, SPSS and SAS etc. 
+3. Add a new line here. 
