@@ -3,6 +3,9 @@ import pandas as pd
 import xlrd
 import datetime
 
+# template = 'template.xlsx'
+# df_export = pd.read_excel(template, engine='openpyxl', sheet_name=None)             # copied online
+
 raw_file = 'Export Tracking 截止目前最新.xls'
 content = xlrd.open_workbook(filename=raw_file, encoding_override='gbk')    # copied online
 df_raw = pd.read_excel(content, engine='xlrd', sheet_name=None)             # copied online
@@ -65,8 +68,6 @@ export_dict['审核人'] = ['Sara'] * len_of_record
 """
 Write to new excel
 """
-template = 'template.xlsx'
-df_export = pd.read_excel(template, engine='openpyxl', sheet_name=None)             # copied online
 
 # sheet = df_export.get('导入-采购成本')
 # columns = sheet.columns.values
